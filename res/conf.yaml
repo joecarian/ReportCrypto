@@ -1,0 +1,16 @@
+API-URL: https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest
+API-KEY: 416b155e-1867-45c7-8639-fa27159cae0f
+API-PARAMS:
+    - start: !!str 1
+    - limit: !!str 100
+    - convert: !!str USD
+
+MAX-THRESHOLD-VOLUME: !!int 76000000
+
+RANKING_CRYPTO: !!int 10
+
+NUM_CRYPTO: !!int 20
+
+TIME: !!str "10:30"
+
+REPEAT_INTERVAL: !!str "daily"
